@@ -1,6 +1,6 @@
 package day09;
 
-import com.myfirstproject.TestBase;
+import com.myfirstproject.utilities.TestBase;
 import org.apache.commons.io.FileUtils;
 import org.junit.Test;
 import org.openqa.selenium.By;
